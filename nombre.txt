@@ -8,3 +8,4 @@ televisor
 computadora
 mesa
 silla
+horno
