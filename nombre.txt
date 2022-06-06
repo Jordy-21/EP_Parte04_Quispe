@@ -1,0 +1,10 @@
+lavadora
+cocina
+microondas
+refrigeradora
+plancha
+cafetera
+televisor
+computadora
+mesa
+silla
